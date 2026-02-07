@@ -12,3 +12,4 @@ This certification confirms my completion of the AWS re/Start training program.
 
 ## Certificate Proof
 ![AWS re/Start Certificate](AWS-file-systems-completion-certs.pdf)
+![Diagram screenshot](FileSystemsintheCloud.png)
